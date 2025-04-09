@@ -1,5 +1,5 @@
 # trscan
-trscan (v1.0) adalah alat otomatis yang dirancang untuk melakukan pemindaian keamanan pada situs web dengan tujuan mengidentifikasi potensi kerentanannya. Alat ini menggabungkan beberapa teknik dan alat pemindaian yang populer, seperti SQL Injection (SQLi), Remote File Inclusion (RFI), Sensitive File Disclosure, dan melakukan crawling
+trscan (v1.0) adalah alat otomatis sederhana yang dirancang untuk melakukan pemindaian keamanan pada situs web dengan tujuan mengidentifikasi potensi kerentanannya. Alat ini menggabungkan beberapa teknik dan alat pemindaian yang populer, seperti SQL Injection (SQLi), Remote File Inclusion (RFI), Sensitive File Disclosure, dan melakukan crawling
 
 Here are the quick steps to run trscan:
 
