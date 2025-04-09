@@ -25,4 +25,4 @@ sudo apt install sqlmap dirsearch
 
 Run:
 
-python3 web_scanner.py http://bisnis.lrtjakarta.co.id --verbose --crawl
+python3 web_scanner.py [url] --verbose --crawl
